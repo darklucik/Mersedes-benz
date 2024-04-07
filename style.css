@@ -452,3 +452,28 @@ body {
         border-bottom: none;
     }
 }
+
+.header_2 {
+    color: #222222;
+    text-transform: uppercase;
+    padding-top: 200px;
+    font-family: TT Hoves;
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: calc(3.5vw + 15.3px);
+}
+
+.etr {
+    font-family: TT Hoves;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 37.8px;
+    margin-bottom: 20px;
+}
+
+.te {
+    display: flex;
+    width: 507px;
+    height: 506px;
+    gap: 18px;
+}
